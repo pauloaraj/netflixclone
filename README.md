@@ -1,9 +1,12 @@
 # Interface Netflix
 
-  Recriação da interface do Netflix realizada no desafio durante o Bootcamp front-end da DIO.
+  Este repositorio é uma recriação da interface do Netflix realizada em um desafio do Bootcamp front-end na plataforma DIO.
   Trabalhando o conceito de Containers, e a ferramenta bootstrap.
   
-  Proximo desafio: <br>
-  modificar a interface para um outro tipo de aplicação. <br
-                   adicionar funcionalidades <br>
-                   consumir API
+  Proximos desafios: <br>
+                  <ul>
+                  <li> Modificar essa interface para um outro tipo de aplicação.</li>
+                  <li> Adicionar funcionalidades com JavaScript. </li>
+                  <li> Consumir API. </li>
+                  </ul>
+  
